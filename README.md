@@ -7,7 +7,7 @@ Built with **Next.js**, **TailwindCSS**, and **Framer Motion**, it merges instit
 ---
 
 ## 🌐 Live Demo
-👉 [https://agoracre.vercel.app](https://agoracre.vercel.app)
+👉 https://vercel.com/ken16/agoracre-landing
 
 ---
 
